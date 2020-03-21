@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rmg-test-page/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rmg-test-page/static/js/main.eec6283e.chunk.js",
+    "main.js.map": "/rmg-test-page/static/js/main.eec6283e.chunk.js.map",
+    "runtime-main.js": "/rmg-test-page/static/js/runtime-main.94e22ef5.js",
+    "runtime-main.js.map": "/rmg-test-page/static/js/runtime-main.94e22ef5.js.map",
+    "static/js/2.dde4fde9.chunk.js": "/rmg-test-page/static/js/2.dde4fde9.chunk.js",
+    "static/js/2.dde4fde9.chunk.js.map": "/rmg-test-page/static/js/2.dde4fde9.chunk.js.map",
+    "index.html": "/rmg-test-page/index.html",
+    "precache-manifest.aa5e99facf0dd45e2cb0cdda10654cc4.js": "/rmg-test-page/precache-manifest.aa5e99facf0dd45e2cb0cdda10654cc4.js",
+    "service-worker.js": "/rmg-test-page/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rmg-test-page/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dde4fde9.chunk.js.LICENSE.txt": "/rmg-test-page/static/js/2.dde4fde9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rmg-test-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e22ef5.js",
+    "static/js/2.dde4fde9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eec6283e.chunk.js"
+  ]
+}
