@@ -1,2 +1,0 @@
-(this["webpackJsonprail-map-generator"]=this["webpackJsonprail-map-generator"]||[]).push([[3],{26:function(e,r,n){"use strict";n.r(r),r.default=[{id:"inner",name:{en:"Inner Circle"},colour:"#4f4c4d"},{id:"outer",name:{en:"Outer Circle"},colour:"#f57c14"}]}}]);
-//# sourceMappingURL=colours12.3f02a505.chunk.js.map
