@@ -46,7 +46,11 @@
             "border": "Show Border",
             "scale": "Scale",
             "format": "Format",
-            "download": "Download"
+            "download": "Download",
+            "terms": {
+                "accept": "I accept the ",
+                "tandc": "Terms and Conditions"
+            }
         },
         "style": {
             "button": "Style",
@@ -113,11 +117,12 @@
             "button": "Info Panel Type",
             "title": "Choose a Type for Info Panel",
             "gz1": "Line 1",
-            "gz28": "Line 2/8",
+            "gz28": "Line 2/8 (Panasonic)",
+            "gz2otis": "Line 2/8 (Otis)",
             "gz3": "Line 3",
             "gz1421": "Line 7/9/13/14/21",
             "gz6": "Line 6/Guangfo Line",
-            "gzgf": "Guangfo Line Phase 2",
+            "gzgf": "Line 6/Guangfo Line Phase 2",
             "gz4": "Line 4",
             "gz5": "Line 5"
         },
@@ -260,7 +265,8 @@
         "done": "Done",
         "cancel": "Cancel",
         "ok": "OK",
-        "confirm": "Confirm"
+        "confirm": "Confirm",
+        "close": "Close"
     },
 
     "expansion": {
